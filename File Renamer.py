@@ -44,7 +44,7 @@ def fileNamer(fullpath, filename, changetype, specifiedep = 1, formatitemsdigit 
         subnamearr = selectedfile.split('.')
         subname = subnamearr[len(subnamearr) - 1]
 
-        if subname in ignoresubnames:
+        if subname in ignoresubnames or len(subnamearr) < 2:
             print('Ignore file "' + selectedfile + '".')
             continue
 
