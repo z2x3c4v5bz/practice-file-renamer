@@ -1,4 +1,4 @@
-# Python Project -- File Renamer #
+# Project -- File Renamer #
 
 [![issue](https://img.shields.io/github/discussions/z2x3c4v5bz/Project--Py_file_renamer)](https://github.com/z2x3c4v5bz/Project--Py_file_renamer/discussions)
 [![forks](https://img.shields.io/github/forks/z2x3c4v5bz/Project--Py_file_renamer)](https://github.com/z2x3c4v5bz/Project--Py_file_renamer/network)
